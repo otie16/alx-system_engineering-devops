@@ -1,1 +1,1 @@
-script to print a file .
+create a symbolic link.
