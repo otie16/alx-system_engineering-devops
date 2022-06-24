@@ -1,1 +1,1 @@
-displaying content of the directory`
+changes the working directory to the user’s home directory.
