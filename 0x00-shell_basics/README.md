@@ -1,1 +1,1 @@
-move a file. 
+delete a dir
